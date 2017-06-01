@@ -90,7 +90,7 @@ int main(){
 	
 	stock(strings,nb);
 	shell(cp_tree);
-
+	free(H);
     return 0;
 }
 
